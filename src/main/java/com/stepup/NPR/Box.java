@@ -5,4 +5,6 @@ public class Box {
     {
         System.out.println("Новый код");
         System.out.println("Новый код");
+        System.out.println(1);
+        System.out.println(2);
     }}
